@@ -1,4 +1,5 @@
 # Aakash Ambodkar Personal Website
 
-Aakash Personal Website
-
+- LinkedIn
+- GitHub
+- Resume
